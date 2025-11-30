@@ -83,9 +83,9 @@ export default function index() {
           </li>
           <li>
             <User
-                username="infiKNIGHTe"
-                avatarUrl="https://avatars.githubusercontent.com/u/142007233"
-                githubUrl="https://github.com/infiknighte"
+              username="infiKNIGHTe"
+              avatarUrl="https://avatars.githubusercontent.com/u/142007233"
+              githubUrl="https://github.com/infiknighte"
             />
           </li>
         </ul>
