@@ -81,6 +81,13 @@ export default function index() {
               githubUrl="https://github.com/foo8664"
             />
           </li>
+          <li>
+            <User
+                username="infiKNIGHTe"
+                avatarUrl="https://avatars.githubusercontent.com/u/142007233"
+                githubUrl="https://github.com/infiknighte"
+            />
+          </li>
         </ul>
       </section>
     </>
