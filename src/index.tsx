@@ -4,6 +4,7 @@ import "./index.css";
 
 import index from "./routes/index";
 const activities = lazy(() => import("./routes/activities"));
+import PageNotFound from "./routes/pageNotFound";
 
 import Background from "./components/Background";
 import GithubRibbon from "./components/GithubRibbon";
@@ -23,6 +24,7 @@ render(
     <HashRouter root={App}>
       <Route path="/" component={index} />
       <Route path="/activities" component={activities} preload={activities} />
+      <Route path="*" component={pageNotFound} />
     </HashRouter>
   ),
   root!,
