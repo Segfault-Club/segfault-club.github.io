@@ -57,7 +57,7 @@ export default function index() {
             <User
               username="Wicks"
               avatarUrl="https://avatars.githubusercontent.com/u/167521638"
-              githubUrl="https://github.com/Wickslynx"
+              githubUrl="https://codeberg.org/Wicks"
             />
           </li>
           <li>
